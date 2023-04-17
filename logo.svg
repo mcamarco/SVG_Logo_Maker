@@ -1,1 +1,2 @@
-<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg"> <circle fill="black" cx="25" cy="75" r="20"/> <text x="10" y="10" fill="red"> TEST </text> </svg>
+<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg"> <circle fill="green" cx="100" cy="50" r="40"/> <text x="87" y="50" fill="red"> wah </text> </svg>
+
