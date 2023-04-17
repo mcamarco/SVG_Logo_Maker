@@ -1,1 +1,1 @@
-<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg"> <rect fill = "GREEN"x="10" y="10" rx="10" ry="10" width="30" height="30"/> <text x="10" y="10" fill="RED"> MEC </text> </svg>
+<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg"> <circle fill="black" cx="25" cy="75" r="20"/> <text x="10" y="10" fill="red"> TEST </text> </svg>
