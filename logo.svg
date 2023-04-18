@@ -1,1 +1,1 @@
-<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg"> <circle fill="green" cx="100" cy="50" r="40"/> <text anchor=middle x="85" y="50" fill="white"> SVG </text> </svg>
+<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg"> <circle fill="white" cx="100" cy="50" r="40" text-anchor="middle"/> <text anchor=middle x="85" y="50" fill="red"> mec </text> </svg>
